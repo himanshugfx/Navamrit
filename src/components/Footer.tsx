@@ -16,13 +16,9 @@ export default function Footer() {
       </div>
       <div className="footer-nav-links">
         <Link href="/">Home</Link>
-        <span className="footer-divider"></span>
         <Link href="/about">About Us</Link>
-        <span className="footer-divider"></span>
         <Link href="/products">Products</Link>
-        <span className="footer-divider"></span>
         <Link href="/philosophy">Philosophy</Link>
-        <span className="footer-divider"></span>
         <Link href="/contact">Contact Us</Link>
       </div>
       <div className="footer-copy">
